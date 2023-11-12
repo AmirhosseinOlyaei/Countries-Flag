@@ -18,6 +18,7 @@ Now, you can open your browser and visit `http://localhost:3000` to see the app 
 
 - React + Vite
 - API (Fetched data of country with corresponding flag images)
+- TailwindCSS
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -28,3 +29,15 @@ A live demo of the app is available at [Demo Link](https://countries-flag-theta.
 ### License
 
 This project is licensed under the MIT License.
+
+## Acknowledgments
+
+- Special thanks and a shout out to the following individuals and organization:
+
+  - [Code the Dream](https://codethedream.org/)
+  - [Gaetan](https://www.linkedin.com/in/gaetan-g-siry-40a534b7/)
+  - [Doina](https://github.com/DoinaFitchevici)
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out to [Amir](https://www.linkedin.com/in/amirhossein-olyaei/).
