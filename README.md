@@ -10,7 +10,7 @@ A simple country flag selector using React.js and an API that returns country da
 2. Change to the project directory using `cd repo-name`.
 3. Install the required dependencies using `npm install`.
 4. Install the required dependencies using `npx vite`.
-5. Start the development server using `npm start` or `npm run dev`.
+5. Start the development server using `npm run dev`.
 
 Now, you can open your browser and visit `http://localhost:3000` to see the app in action.
 
