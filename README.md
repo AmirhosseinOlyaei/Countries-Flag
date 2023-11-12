@@ -1,3 +1,5 @@
+![Screenshot 1](./src/assets/Screenshot%202023-11-12%20at%208.18.27 AM.png)
+
 # Country Flag Selector
 
 A simple country flag selector using React.js and an API that returns country data with corresponding flag images.
@@ -21,11 +23,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 
 ### Demo
 
-A live demo of the app is available at [Demo Link](https://demo-link.com).
-
-### Screenshots
-
-![Screenshot 1](./src/assets/Screenshot%202023-11-12%20at%208.18.27 AM.png)
+A live demo of the app is available at [Demo Link](https://countries-flag-theta.vercel.app/).
 
 ### License
 
